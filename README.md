@@ -101,8 +101,11 @@ Timed switching between signals
 Basic Logic:
 ----------------------------------------------------------
 ⟶ Red ON → Green OFF
+
 ⟶ Delay(30 sec)
+
 ⟶ Green ON → Red OFF
+
 ⟶ Delay (45 sec) & Repeat
 
 🌐 IoT Integration
@@ -126,8 +129,11 @@ Displays:
 The system uses intelligent decision-based automation:
 
 IF Day → Street Lights OFF
+
 IF Night → Street Lights ON (Dim Mode)
+
 IF Motion → Full Brightness
+
 Traffic Lights → Automatic Signal Control
 
 This demonstrates real-time decision-making in embedded systems.
